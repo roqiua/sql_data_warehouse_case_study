@@ -46,6 +46,7 @@ CREATE TABLE silver.crm_sales_details
 (
     sls_ord_num NVARCHAR (50),
     sls_prd_key NVARCHAR (50),
+    prd_id INT,
     sls_cust_id INT,
     sls_order_dt DATE,
     sls_ship_dt DATE,
@@ -58,8 +59,8 @@ CREATE TABLE silver.crm_sales_details
     tax_amount DECIMAL (18, 2),
     tax_percentage DECIMAL (18, 2),
     profit DECIMAL (18, 2),
-    prd_cost_source NVARCHAR (50),
-    prd_cost_source_id INT
+    prd_source_type NVARCHAR (50),
+    prd_source_id INT
 );
 
 IF OBJECT_ID('silver.erp_cust_az12', 'U') IS NOT NULL
