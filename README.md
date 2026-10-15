@@ -48,7 +48,7 @@ The Date Dimension supports order date, shipping date, and due date analysis.
 
 ## 🔗 Project References
 
-- **Project Implementation Tutorials:** [https://youtube.com/playlist?list=PLNcg_FV9n7qaUWeyUkPfiVtMbKlrfMqA8&si=WsNH9MWVoW8r2e2b]
+- **Project Implementation Tutorials:** https://youtube.com/playlist?list=PLNcg_FV9n7qaUWeyUkPfiVtMbKlrfMqA8&si=WsNH9MWVoW8r2e2b
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/roqiua-mohammad/)
 - **GitHub:** [GitHub Profile](https://github.com/roqiua)
 
